@@ -1,7 +1,6 @@
 +++
 title = 'Index'
 date = 2024-09-29T23:19:17-03:00
-draft = true
 +++
 ## Introduction
 ---
