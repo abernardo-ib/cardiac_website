@@ -1,0 +1,45 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: CardIAc
+theme: ["PaperMod"]
+sectionPagesMenu: main
+
+menu:
+  main:
+    - identifier: instalacion
+      name: instalacion
+      url: /instalacion/
+      weight: 0
+    - identifier: acerca de
+      name: acerca de
+      url: /acerca_de/
+      weight: 10
+    - identifier: docs
+      name: docs
+      url: /docs/
+      weight: 20
+    - identifier: contacto
+      name: contacto
+      url: /contacto/
+      weight: 30
+    - identifier: galeria
+      name: galeria
+      url: /galeria/
+      weight: 40
+    - identifier: ds
+      pre: "<i class='fa-fw fab fa-github'></i> GitHub repo"
+      url: https://github.com/McShelby/hugo-theme-relearn
+      weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      image:
+        enableDefault: true
+params:
+  assets:
+    favicon: "/static/favicon.ico"
+    favicon16x16: "/static/favicon-16x16.png"
+    favicon32x32: "/static/favicon-32x32.png"
+    apple_touch_icon: "/static/apple-touch-icon.png"
