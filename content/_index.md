@@ -6,13 +6,6 @@ date = 2024-09-29T23:19:17-03:00
 h1 {
     font-weight: 100;
 }
-
-.box {
-    border: 1px solid #000; 
-    margin: 0 auto;
-
-}
-
 h3 {
     text-decoration: underline;
 }
