@@ -6,8 +6,9 @@ sectionPagesMenu: main
 
 menu:
   main:
-    - identifier: instalacion
-      name: instalacion
+    - identifier: instalación
+      pre: <i class="fa-solid fa-code"></i>
+      name: instalación
       url: /instalacion/
       weight: 0
     - identifier: acerca de
@@ -22,14 +23,10 @@ menu:
       name: contacto
       url: /contacto/
       weight: 30
-    - identifier: galeria
-      name: galeria
+    - identifier: galería
+      name: galería
       url: /galeria/
       weight: 40
-    - identifier: ds
-      pre: "<i class='fa-fw fab fa-github'></i> GitHub repo"
-      url: https://github.com/McShelby/hugo-theme-relearn
-      weight: 10
 markup:
   goldmark:
     renderer:
@@ -43,3 +40,6 @@ params:
     favicon16x16: "/static/favicon-16x16.png"
     favicon32x32: "/static/favicon-32x32.png"
     apple_touch_icon: "/static/apple-touch-icon.png"
+  socialIcons: # optional
+    - name: "github"
+      url: "<link>"
