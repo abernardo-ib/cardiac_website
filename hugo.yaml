@@ -15,18 +15,14 @@ menu:
       name: acerca de
       url: /acerca_de/
       weight: 10
-    - identifier: docs
-      name: docs
-      url: /docs/
-      weight: 20
     - identifier: contacto
       name: contacto
       url: /contacto/
-      weight: 30
+      weight: 20
     - identifier: galería
       name: galería
       url: /galeria/
-      weight: 40
+      weight: 30
 markup:
   goldmark:
     renderer:
