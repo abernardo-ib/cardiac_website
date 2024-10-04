@@ -25,9 +25,9 @@ En este momento la herramienta provee segmentación, cuantificación volumétric
 <center><h4>Colaboradores / Créditos</h4></center>
 
 <small>Actualmente, las siguientes personas colaboran con el proyecto:</small>
-- <small>Mgter. Agustín Bernardo <small>(agustin@cardiac.ar) - Instituto Balseiro</small></small>
--  <small>Dr. Germán Mato <small>(german@cardiac.ar) - Instituto Balseiro, CONICET, CNEA</small></small>
--  <small>Dra. Jorgelina Medus <small>(jorgelina@cardiac.ar) - Fundación INTECNUS</small></small>
--  <small>Dr. Matías Calandrelli <small>(matias@cardiac.ar) - Instituto Balseiro</small></small>
--  <small>Dr. Ariel Curiale <small>(ariel@cardiac.ar) - Brigham's and Woman Hospital, Harvard Medical School</small></small>
+- <small>Mgter. Agustín Bernardo <small>(agustin@cardiac.ar)</small></small>
+- <small>Dr. Germán Mato <small>(german@cardiac.ar)</small></small>
+- <small>Dra. Jorgelina Medus <small>(jorgelina@cardiac.ar)</small></small>
+- <small>Dr. Matías Calandrelli <small>(matias@cardiac.ar)</small></small>
+- <small>Dr. Ariel Curiale <small>(ariel@cardiac.ar)</small></small>
 
