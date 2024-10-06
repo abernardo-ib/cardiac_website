@@ -6,8 +6,8 @@ sectionPagesMenu: main
 
 menu:
   main:
-    - identifier: instalación
-      name: instalación
+    - identifier: descarga
+      name: descarga
       url: /instalacion/
       weight: 10
     - identifier: acerca de
