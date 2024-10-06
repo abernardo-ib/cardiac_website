@@ -7,22 +7,25 @@ sectionPagesMenu: main
 menu:
   main:
     - identifier: instalación
-      pre: <i class="fa-solid fa-code"></i>
       name: instalación
       url: /instalacion/
-      weight: 0
+      weight: 10
     - identifier: acerca de
       name: acerca de
       url: /acerca_de/
-      weight: 10
+      weight: 20
     - identifier: contacto
       name: contacto
       url: /contacto/
-      weight: 20
+      weight: 30
     - identifier: galería
       name: galería
       url: /galeria/
-      weight: 30
+      weight: 40
+    - identifier: repo
+      name: repo
+      url: https://github.com/curiale/cardiac/
+      weight: 50
 markup:
   goldmark:
     renderer:
@@ -32,10 +35,10 @@ markup:
         enableDefault: true
 params:
   assets:
-    favicon: "/static/favicon.ico"
-    favicon16x16: "/static/favicon-16x16.png"
-    favicon32x32: "/static/favicon-32x32.png"
-    apple_touch_icon: "/static/apple-touch-icon.png"
+    favicon: "/assets/favicon.ico"
+    favicon16x16: "/assets/favicon-16x16.png"
+    favicon32x32: "/assets/favicon-32x32.png"
+    apple_touch_icon: "/assets/apple-touch-icon.png"
   socialIcons: # optional
     - name: "github"
       url: "<link>"

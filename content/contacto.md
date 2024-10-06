@@ -1,10 +1,4 @@
-
-<style>
-h1, h2, h3 {
-    font-weight: 100;
-}
-</style>
-
+<style> h1, h2, h3 { font-weight: 100; } </style>
 <center><h1> Contacto </h1> </center>
 
 Comuníquese al siguiente correo por cualquier inquietud o necesidad para instalar o colaborar con Card<b>IA</b>c: agustin@cardiac.ar
