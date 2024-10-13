@@ -14,4 +14,4 @@ h3 {
 <center><h1> Card<b>IA</b>c </h1> </center>
 <center><p>Una herramienta <b>open source</b> de procesamiento de imágenes cardíacas mediante IA.</p></center>
 
-<center><a href="/instalacion/" ><h3>Empiece aquí</h3></a></center>
+<center><a href="/descarga/" ><h3>Empiece aquí</h3></a></center>

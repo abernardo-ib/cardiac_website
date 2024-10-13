@@ -3,11 +3,10 @@
 Para instalar Card<b>IA</b>c, descargue los siguientes archivos:
 
 1. [3D Slicer](https://download.slicer.org/)
-2. [CardIAc Extension]()
+2. [CardIAc Extension](https://drive.google.com/file/d/1xKs1t9-RJgSWU7wHyveuGmFQXb-Ez5lg/view?usp=sharing)
 
 <center><h2> Video Guía </h2></center>
 
-{{<youtube dQw4w9WgXcQ>}}
-<center><h2> Paso a paso </h2></center>
+{{<youtube SgK7ntTqCz8>}}
 
 
